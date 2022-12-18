@@ -1,0 +1,8 @@
+name: WorldguardPreventLwc
+version: '${project.version}'
+main: com.kamesuta.worldguardpreventlwc.WorldguardPreventLwc
+api-version: 1.19
+authors: [ Kamesuta ]
+depend:
+  - WorldGuard
+  - LWC
